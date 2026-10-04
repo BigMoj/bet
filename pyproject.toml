@@ -18,7 +18,7 @@ dev = ["pytest>=8"]
 fp = "football_predictor.cli:main"
 
 [tool.setuptools.packages.find]
-include = ["football_predictor*"]
+include = ["football_predictor*", "updown*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

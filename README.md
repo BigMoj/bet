@@ -114,3 +114,11 @@ fp accuracy
 pip install -e ".[news,dev]"
 pytest
 ```
+
+<div dir="rtl">
+
+## کریپتو: بازارهای Up / Down
+
+الگوهای کندلی SOLUSDT برای شرط‌های ۵ دقیقه، ۱۵ دقیقه و ۱ ساعته‌ی «Up or Down» و ابزار سیگنال آن در [`updown/`](updown/README.md) است.
+
+</div>
